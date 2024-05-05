@@ -6,7 +6,7 @@ Scribbler is a blog website created with HTML, CSS, and JavaScript. It's a front
 ## Technologies Used
 
 - HTML
-- CSS
+- CSS ,Bootstrap
 - JavaScript
 
 ## Getting Started
