@@ -15,6 +15,9 @@
     .modal-signin-container{
       border: 10px solid white;
     }
+    .modal-footer {
+        font-weight:bold;
+    }
     
     .signinupbutton{
       width: 120px;
